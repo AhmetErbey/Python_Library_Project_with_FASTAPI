@@ -32,7 +32,7 @@ Her aşamanın kendi bağımlılıkları vardır ve ilgili klasörün içindeki 
 
 1.  Aşama 1 dizinine gidin:
     ```bash
-    cd stage_1
+    cd Opp_1
     ```
 2.  Gerekli test kütüphanesini kurun:
     ```bash
@@ -47,7 +47,7 @@ Her aşamanın kendi bağımlılıkları vardır ve ilgili klasörün içindeki 
 
 1.  Aşama 2 dizinine gidin:
     ```bash
-    cd stage_2
+    cd API_2
     ```
 2.  Gerekli kütüphaneleri kurun:
     ```bash
@@ -62,7 +62,7 @@ Her aşamanın kendi bağımlılıkları vardır ve ilgili klasörün içindeki 
 
 1.  Aşama 3 dizinine gidin:
     ```bash
-    cd stage_3
+    cd FastAPI_3
     ```
 2.  Gerekli kütüphaneleri kurun:
     ```bash
@@ -108,7 +108,7 @@ Her aşamanın kendi testleri vardır. Testleri çalıştırmak için ilgili aş
 **Örnek (Aşama 2 için):**
 
 ```bash
-cd stage_2
+cd API_2
 pip install -r requirements.txt
 pytest
 ```
