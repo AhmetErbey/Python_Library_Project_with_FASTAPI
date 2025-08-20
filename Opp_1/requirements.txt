@@ -1,0 +1,2 @@
+# Testleri çalıştırmak için
+pytest
