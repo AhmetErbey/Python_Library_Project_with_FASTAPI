@@ -7,9 +7,9 @@ Bu proje, Python 202 Bootcamp'i kapsamında geliştirilmiş olup, Nesne Yönelim
 
 Proje, her biri bir önceki aşamanın üzerine inşa edilen üç ayrı klasörden oluşur:
 
--   **/stage_1:** OOP prensipleriyle geliştirilmiş, verileri `library.json` dosyasında saklayan temel bir komut satırı (CLI) kütüphane uygulaması.
--   **/stage_2:** Aşama 1'deki uygulamayı, Open Library API'sini kullanarak ISBN ile kitap bilgilerini otomatik olarak getirecek şekilde zenginleştiren sürüm.
--   **/stage_3:** Kütüphane mantığını bir web servisi olarak sunan, FastAPI ile geliştirilmiş bir REST API.
+-   **/Opp_1:** OOP prensipleriyle geliştirilmiş, verileri `library.json` dosyasında saklayan temel bir komut satırı (CLI) kütüphane uygulaması.
+-   **/API_2:** Aşama 1'deki uygulamayı, Open Library API'sini kullanarak ISBN ile kitap bilgilerini otomatik olarak getirecek şekilde zenginleştiren sürüm.
+-   **/FastAPI_3:** Kütüphane mantığını bir web servisi olarak sunan, FastAPI ile geliştirilmiş bir REST API.
 
 ---
 
